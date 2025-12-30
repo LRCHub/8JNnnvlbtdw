@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Cherry Wine",
+  "base_artist": "grentperez",
+  "createdAt": "2025-12-30T01:59:52.440381Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sweet Cherry Wine",
+      "artist": "Tommy James & The Shondells",
+      "has_synced": false,
+      "path": "select/01_Sweet_Cherry_Wine_Tommy_James_&_The_Shondells.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Cherry Wine",
+      "artist": "Debbie",
+      "has_synced": false,
+      "path": "select/02_Cherry_Wine_Debbie.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Cherry Wine - Commentary",
+      "artist": "Nas",
+      "has_synced": false,
+      "path": "select/03_Cherry_Wine_-_Commentary_Nas.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Cherry Wine - Live",
+      "artist": "Hozier",
+      "has_synced": true,
+      "path": "select/04_Cherry_Wine_-_Live_Hozier.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Cherry Wine (Live)",
+      "artist": "Hozier",
+      "has_synced": true,
+      "path": "select/05_Cherry_Wine_(Live)_Hozier.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sweet Cherry Wine",
+      "artist": "Tommy James & The Shondells",
+      "has_synced": true,
+      "path": "select/06_Sweet_Cherry_Wine_Tommy_James_&_The_Shondells.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Cherry Wine (Live) Live",
+      "artist": "Hozier",
+      "has_synced": true,
+      "path": "select/07_Cherry_Wine_(Live)_Live_Hozier.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Cherry Wine",
+      "artist": "grentperez",
+      "has_synced": false,
+      "path": "select/08_Cherry_Wine_grentperez.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sweet Cherry Wine",
+      "artist": "James, Tommy & the Shondells",
+      "has_synced": false,
+      "path": "select/09_Sweet_Cherry_Wine_James,_Tommy_&_the_Shondells.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sweet Cherry Wine",
+      "artist": "Tommy James and the Shondells",
+      "has_synced": true,
+      "path": "select/10_Sweet_Cherry_Wine_Tommy_James_and_the_Shondells.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Sweet Cherry Wine",
+      "artist": "Tommy James & The Shondells",
+      "has_synced": true,
+      "path": "select/11_Sweet_Cherry_Wine_Tommy_James_&_The_Shondells.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sweet Cherry Wine (1969)",
+      "artist": "Tommy James and the Shondells",
+      "has_synced": true,
+      "path": "select/12_Sweet_Cherry_Wine_(1969)_Tommy_James_and_the_Shondells.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Cherry Wine",
+      "artist": "Hozier",
+      "has_synced": true,
+      "path": "select/13_Cherry_Wine_Hozier.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Cherry Wine",
+      "artist": "Nas feat. Amy Winehouse",
+      "has_synced": true,
+      "path": "select/14_Cherry_Wine_Nas_feat._Amy_Winehouse.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Cherry Wine (Feat. Amy Winehouse)",
+      "artist": "Nas",
+      "has_synced": true,
+      "path": "select/15_Cherry_Wine_(Feat._Amy_Winehouse)_Nas.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Cherry Wine",
+      "artist": "grentperez",
+      "has_synced": false,
+      "path": "select/pl_01_Cherry_Wine_grentperez.txt"
+    }
+  ]
+}
